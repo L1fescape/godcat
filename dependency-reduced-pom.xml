@@ -96,7 +96,7 @@
       <artifactId>spigot-api</artifactId>
       <version>1.21.3</version>
       <scope>provided</scope>
-      <systemPath>/workspace/plugins/GodCat/libs/spigot-api-1.21.3.jar</systemPath>
+      <systemPath>/workspace/libs/spigot-api-1.21.3.jar</systemPath>
     </dependency>
     <dependency>
       <groupId>org.spigotmc</groupId>
